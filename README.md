@@ -1,5 +1,3 @@
-Git Help
-
 git add filename (stage file)
 
 git commit -m "some text describing changes"
