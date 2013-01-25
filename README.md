@@ -1,3 +1,5 @@
+1/25/2013 6:25
+
 git add filename (stage file)
 
 git commit -m "some text describing changes"
